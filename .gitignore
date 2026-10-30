@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+instance/
+backend/migrations/
+backend/*.db
+backend/app/uploads/
+backend/uploads/
+frontend/node_modules/
+frontend/dist/
